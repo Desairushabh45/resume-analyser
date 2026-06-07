@@ -1,0 +1,106 @@
+python
+java
+javascript
+typescript
+c++
+c#
+ruby
+go
+rust
+swift
+kotlin
+php
+sql
+html
+css
+react
+angular
+vue.js
+node.js
+express.js
+django
+flask
+fastapi
+spring boot
+.net
+docker
+kubernetes
+aws
+azure
+google cloud
+git
+github
+ci/cd
+jenkins
+terraform
+ansible
+linux
+rest api
+graphql
+mongodb
+postgresql
+mysql
+redis
+elasticsearch
+apache kafka
+rabbitmq
+machine learning
+deep learning
+natural language processing
+computer vision
+tensorflow
+pytorch
+scikit-learn
+pandas
+numpy
+matplotlib
+data analysis
+data engineering
+data visualization
+power bi
+tableau
+excel
+agile
+scrum
+jira
+project management
+communication
+teamwork
+leadership
+problem solving
+critical thinking
+time management
+adaptability
+creativity
+attention to detail
+customer service
+public speaking
+negotiation
+conflict resolution
+strategic planning
+financial analysis
+marketing
+seo
+content writing
+graphic design
+ui/ux design
+figma
+adobe photoshop
+adobe illustrator
+cybersecurity
+network security
+penetration testing
+blockchain
+solidity
+web3
+devops
+microservices
+system design
+object oriented programming
+functional programming
+test driven development
+unit testing
+integration testing
+selenium
+jest
+pytest
